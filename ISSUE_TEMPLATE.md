@@ -3,7 +3,7 @@ https://github.com/PowerShell/Win32-OpenSSH/wiki/Troubleshooting-Steps
 
 
 **Terminal issue? please go through wiki**
-https://github.com/PowerShell/Win32-OpenSSH/wiki/TTY-PTY-support-in-Windows-OpenSSH
+[TTY PTY support in Windows OpenSSH · PowerShell/Win32-OpenSSH Wiki · GitHub](https://github.com/PowerShell/Win32-OpenSSH/wiki/TTY-PTY-support-in-Windows-OpenSSH)
 
 Please answer the following
 
